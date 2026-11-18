@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"passport"
-	magiclink "passport-magiclink"
+	magiclink "passport/magiclink"
 )
 
 var ctx = context.Background()

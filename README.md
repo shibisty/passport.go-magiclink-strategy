@@ -1,4 +1,4 @@
-# passport-magiclink
+# @passport/magiclink
 
 Passwordless login by email link for [`passport`](https://github.com/shibisty/passport.go).
 Go package: `magiclink`.
@@ -6,7 +6,7 @@ Go package: `magiclink`.
 ## Installation
 
 ```bash
-gtr add github:shibisty/passport.go github:shibisty/passport.go-magiclink-strategy
+gtr add passport @passport/magiclink
 ```
 
 ## Usage

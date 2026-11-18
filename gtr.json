@@ -1,7 +1,7 @@
 {
     "$schema": "https://raw.githubusercontent.com/shibisty/gtr/main/schema/gtr.schema.json",
-    "name": "passport-magiclink",
-    "version": "0.1.1",
+    "name": "@passport/magiclink",
+    "version": "0.2.0",
     "license": "MIT",
     "repository": "github:shibisty/passport.go-magiclink-strategy",
     "engines": {
@@ -9,7 +9,7 @@
     },
     "dependencies": {},
     "devDependencies": {
-        "passport": "github:shibisty/passport.go"
+        "passport": "^0.2"
     },
     "peerDependencies": {
         "passport": "^0.2"

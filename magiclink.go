@@ -1,5 +1,5 @@
 // Package magiclink logs users in with a one-time link sent by email.
-// gtr package: passport-magiclink.
+// gtr package: @passport/magiclink.
 //
 //	ml := magiclink.New(magiclink.NewMemoryStore(), "https://app.example.com/auth/magic",
 //	    func(ctx context.Context, email, link string) error { return mailer.Send(ctx, email, link) })
